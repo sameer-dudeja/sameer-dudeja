@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 😄 It's good to see you here on my profile.
 
 
-<img  align='right' src="http://sameerdudeja.com/assets/img/sddd.png" height="350">
-
+<!--<img  align='right' src="http://sameerdudeja.com/assets/img/sddd.png" height="350">
+-->
 
 #### Skills 🤖
 <code><img src="https://img.icons8.com/fluent/48/000000/matlab.png"/></code>
