@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Computer Science Engineer, who is a MERN stack Developer and am profecient in C++, JavaScript, Python, MATLAB and C. 
 <!-- - 🌱 My tech stack is Python/Flask + JS + C++. -->
-- 🤔 I’m learning MERN stack and Computer Vision.
+- 🌱 My tech stack and I like playing around with Computer Vision.
 - 😄 It's good to see you here on my profile.
 
 
