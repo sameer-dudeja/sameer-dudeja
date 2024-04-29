@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m a Computer Science Engineer, who is a MERN stack Developer and am profecient in C++, JavaScript, Python, MATLAB and C. 
-<!-- - 🌱 My tech stack is Python/Flask + JS + C++. -->
-- 🌱 My tech stack and I like playing around with Computer Vision.
+- 🔭 I’m a Computer Science Engineer, who is profecient in C++, JavaScript, Python, Devops and web development. 
+- 🌱 My tech stack in MERN and I like playing around with Devops, AWS Services and Computer Vision projects.
+- 🔭 I’m currently learning AWS services like EC2, S3, Cloud9, DynamoDB, API Gateway, Cognito, SQS, QuickSight and Lambda.
+- 💬 Ask me about Space Exploration and new technologies.
+- 👯 I’m looking to collaborate on any new projects ad technolgies that can improve my skills
 - 😄 It's good to see you here on my profile.
 
 
@@ -27,13 +29,12 @@ Here are some ideas to get you started:
 -->
 
 #### Skills 🤖
-<code><img src="https://img.icons8.com/fluent/48/000000/matlab.png"/></code>
-<code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
-<code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
-<code><img height="48" src="https://img.icons8.com/nolan/64/javascript.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <code><img height="48" src="https://img.icons8.com/bubbles/50/000000/react.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/mongodb.png" /></code>
+<code><img src="https://img.icons8.com/fluent/48/000000/matlab.png"/></code>
+<code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
+<code><img height="48" src="https://img.icons8.com/nolan/64/javascript.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 <code><img height="48" src="https://img.icons8.com/bubbles/50/000000/api.png" /></code>
 <code><img height="48" src="https://img.icons8.com/nolan/48/linux--v2.png" /></code>
